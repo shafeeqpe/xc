@@ -1,0 +1,16 @@
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.icon-graduation:before{
+	content:"\f19d" !important;
+
+
+}
+
+
+.icon-user:before{
+
+	content:"\f007"  !important;
+
+}
+

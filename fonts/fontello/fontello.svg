@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="graduation-cap" unicode="&#xe800;" d="M166 238l334-168 276 136q-4-22-8-47t-6-35-11-23-24-23-45-22q-40-18-80-41t-63-34-39-11-40 13-64 37-80 40q-72 32-103 69t-47 109z m810 246q24-14 24-33t-24-33l-78-44-308 102q-22 36-90 36-40 0-67-16t-27-40 27-40 67-16q26 0 36 4l292-68-268-152q-60-32-120 0l-416 234q-24 14-24 33t24 33l416 234q60 32 120 0z m-128-442q18 116 13 182t-19 90l-14 22 70 38q6-8 12-28t17-101-7-197q-4-26-22-30t-35 5-15 19z" horiz-adv-x="1000" />
+
+<glyph glyph-name="graduation-cap-2" unicode="&#xe801;" d="M0 600q0 33 21 59t51 33l407 94q11 1 21 1t22-1l406-94q31-8 51-33t21-59-21-59-51-33l-84-19 0-264q0-68-84-112t-260-44-260 44-84 112l0 264-84 19q-31 8-51 33t-21 59z m63 0q0-25 23-31l406-94 16 0 406 94q23 6 23 31t-23 31l-406 94-16 0-406-94q-23-6-23-31z m156-375q0-20 29-40t97-37 155-17 155 17 97 37 29 40l0 250-259-61q-12-1-22-1t-21 1l-260 61 0-250z m656-250q0 31 20 78t42 47 43-47 20-78q0-25-19-44t-44-19-43 19-19 44z m31 188l0 281q0 13 9 22t22 9 23-9 9-22l0-281q0-14-9-23t-23-9-22 9-9 23z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
